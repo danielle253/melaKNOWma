@@ -12,5 +12,5 @@ to a qualified medical professional.
 - C
 - Arduino & IR Sensor
 
-ALthough we didn't get it finished, it was great fun to work with!
+Although we didn't get it finished, it was great fun to work with!
 
